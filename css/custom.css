@@ -1,2 +1,25 @@
 /*custom styles*/
 
+h4.price {
+	float:right
+}
+
+h3.price { 
+	float:right
+}
+
+img.pic {
+	float:center;
+}
+
+p.address {
+	text-align:center;
+}
+
+h1 {
+	text-align:center;
+}
+
+h2 {
+	text-align:center;
+}
